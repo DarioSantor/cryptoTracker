@@ -11,6 +11,7 @@
 		F2EF9C59295DA7D0007FDF77 /* CryptoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EF9C58295DA7D0007FDF77 /* CryptoTableViewController.swift */; };
 		F2EF9C5E295DA7D4007FDF77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2EF9C5D295DA7D4007FDF77 /* Assets.xcassets */; };
 		F2EF9C61295DA7D4007FDF77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2EF9C5F295DA7D4007FDF77 /* LaunchScreen.storyboard */; };
+		F2EF9C69295DAAE5007FDF77 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EF9C68295DAAE5007FDF77 /* CoinData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F2EF9C5D295DA7D4007FDF77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2EF9C60295DA7D4007FDF77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2EF9C62295DA7D4007FDF77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2EF9C68295DAAE5007FDF77 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				F2EF9C54295DA7D0007FDF77 /* AppDelegate.swift */,
 				F2EF9C58295DA7D0007FDF77 /* CryptoTableViewController.swift */,
+				F2EF9C68295DAAE5007FDF77 /* CoinData.swift */,
 				F2EF9C5D295DA7D4007FDF77 /* Assets.xcassets */,
 				F2EF9C5F295DA7D4007FDF77 /* LaunchScreen.storyboard */,
 				F2EF9C62295DA7D4007FDF77 /* Info.plist */,
@@ -131,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2EF9C69295DAAE5007FDF77 /* CoinData.swift in Sources */,
 				F2EF9C59295DA7D0007FDF77 /* CryptoTableViewController.swift in Sources */,
 				F2EF9C55295DA7D0007FDF77 /* AppDelegate.swift in Sources */,
 			);
