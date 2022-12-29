@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Alamofire
 
 class CoinData {
     static let shared = CoinData()
@@ -18,6 +19,10 @@ class CoinData {
             let coin = Coin(symbol: symbol)
             coins.append(coin)
         }
+    }
+    
+    func getPrices() {
+        
     }
 }
 
