@@ -15,7 +15,7 @@ class CoinData {
     weak var delegate : DataCoinDelegate?
     
     private init() {
-        let symbols = ["BTC", "ETH", "LTC"]
+        let symbols = ["BTC", "ETH", "LTC", "DOGE"]
         
         for symbol in symbols {
             let coin = Coin(symbol: symbol)

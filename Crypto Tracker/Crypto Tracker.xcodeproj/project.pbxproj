@@ -13,6 +13,7 @@
 		F2EF9C5E295DA7D4007FDF77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2EF9C5D295DA7D4007FDF77 /* Assets.xcassets */; };
 		F2EF9C61295DA7D4007FDF77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2EF9C5F295DA7D4007FDF77 /* LaunchScreen.storyboard */; };
 		F2EF9C69295DAAE5007FDF77 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EF9C68295DAAE5007FDF77 /* CoinData.swift */; };
+		F2EF9C6B295E062A007FDF77 /* CoinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EF9C6A295E062A007FDF77 /* CoinViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F2EF9C60295DA7D4007FDF77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2EF9C62295DA7D4007FDF77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2EF9C68295DAAE5007FDF77 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
+		F2EF9C6A295E062A007FDF77 /* CoinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +56,6 @@
 				8139B04C69D1B114F2E849EB /* Pods-Crypto Tracker.debug.xcconfig */,
 				99F72C8F99EE3546CF561359 /* Pods-Crypto Tracker.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -82,6 +83,7 @@
 				F2EF9C54295DA7D0007FDF77 /* AppDelegate.swift */,
 				F2EF9C58295DA7D0007FDF77 /* CryptoTableViewController.swift */,
 				F2EF9C68295DAAE5007FDF77 /* CoinData.swift */,
+				F2EF9C6A295E062A007FDF77 /* CoinViewController.swift */,
 				F2EF9C5D295DA7D4007FDF77 /* Assets.xcassets */,
 				F2EF9C5F295DA7D4007FDF77 /* LaunchScreen.storyboard */,
 				F2EF9C62295DA7D4007FDF77 /* Info.plist */,
@@ -206,6 +208,7 @@
 				F2EF9C69295DAAE5007FDF77 /* CoinData.swift in Sources */,
 				F2EF9C59295DA7D0007FDF77 /* CryptoTableViewController.swift in Sources */,
 				F2EF9C55295DA7D0007FDF77 /* AppDelegate.swift in Sources */,
+				F2EF9C6B295E062A007FDF77 /* CoinViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
