@@ -1,16 +1,20 @@
 PODS:
   - Alamofire (4.7.2)
+  - SwiftChart (1.0.1)
 
 DEPENDENCIES:
   - Alamofire (= 4.7.2)
+  - SwiftChart (= 1.0.1)
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - SwiftChart
 
 SPEC CHECKSUMS:
   Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
 
-PODFILE CHECKSUM: 631fc5b98df761f6495f4f2e1477aabb9a286ec7
+PODFILE CHECKSUM: b6fb3be4747b541e74f12a2b697f423099edc343
 
 COCOAPODS: 1.8.4

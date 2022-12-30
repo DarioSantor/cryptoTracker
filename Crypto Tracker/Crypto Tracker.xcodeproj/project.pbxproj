@@ -14,6 +14,7 @@
 		F2EF9C61295DA7D4007FDF77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2EF9C5F295DA7D4007FDF77 /* LaunchScreen.storyboard */; };
 		F2EF9C69295DAAE5007FDF77 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EF9C68295DAAE5007FDF77 /* CoinData.swift */; };
 		F2EF9C6B295E062A007FDF77 /* CoinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EF9C6A295E062A007FDF77 /* CoinViewController.swift */; };
+		F2EF9C6D295F0C66007FDF77 /* AuthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EF9C6C295F0C66007FDF77 /* AuthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F2EF9C62295DA7D4007FDF77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2EF9C68295DAAE5007FDF77 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
 		F2EF9C6A295E062A007FDF77 /* CoinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinViewController.swift; sourceTree = "<group>"; };
+		F2EF9C6C295F0C66007FDF77 /* AuthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				F2EF9C58295DA7D0007FDF77 /* CryptoTableViewController.swift */,
 				F2EF9C68295DAAE5007FDF77 /* CoinData.swift */,
 				F2EF9C6A295E062A007FDF77 /* CoinViewController.swift */,
+				F2EF9C6C295F0C66007FDF77 /* AuthViewController.swift */,
 				F2EF9C5D295DA7D4007FDF77 /* Assets.xcassets */,
 				F2EF9C5F295DA7D4007FDF77 /* LaunchScreen.storyboard */,
 				F2EF9C62295DA7D4007FDF77 /* Info.plist */,
@@ -207,6 +210,7 @@
 			files = (
 				F2EF9C69295DAAE5007FDF77 /* CoinData.swift in Sources */,
 				F2EF9C59295DA7D0007FDF77 /* CryptoTableViewController.swift in Sources */,
+				F2EF9C6D295F0C66007FDF77 /* AuthViewController.swift in Sources */,
 				F2EF9C55295DA7D0007FDF77 /* AppDelegate.swift in Sources */,
 				F2EF9C6B295E062A007FDF77 /* CoinViewController.swift in Sources */,
 			);
